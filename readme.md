@@ -28,3 +28,8 @@ I want to be a great **CSer**. Please help me!
 | Astronomy     | UGEB2401E | 3 |
 | Computers and Society + Engineering Practicum      | CSCI3250+3251      |   2+1 |
 | English for Engineering Students I  | ELTU2014AS     |    3|
+
+
+## Screenshot of readme.md through the command prompt environment
+![img1](/img1.png)
+![img2](/img2.png)
